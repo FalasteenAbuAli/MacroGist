@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MacroGist</string>
+    <string name="info">Macros are the big three in nutrition: proteins, carbohydrates, and fats. Each one of us needs a certain amount of each.</string>
+    <string name="calculate">Let\'s help you calculate your macros!</string>
+    <string name="start">start</string>
+    <string name="cal">calculate</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="explore_macros_resources">explore macros resources!</string>
+    <string name="age">Age</string>
+    <string name="years">years</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height</string>
+    <string name="cm">cm</string>
+    <string name="weight">Weight</string>
+    <string name="kg">kg</string>
+    <string name="activity">Activity</string>
+    <string name="your_goal">Your Goal</string>
+    <string name="lose_weight">Lose Weight</string>
+    <string name="gain_muscle">Gain Muscle</string>
+    <string name="clear">Clear</string>
+    <string name="macros_will_show_here">macros will show here</string>
+    <string name="back">Back</string>
+    <string name="carbs_resoures">Carbs resoures</string>
+    <string name="fat_resoures">fat resoures</string>
+    <string name="protein_resoures">Protein resoures</string>
+</resources>
